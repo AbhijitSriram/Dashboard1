@@ -1,0 +1,415 @@
+[
+  {
+    "campus":"Botetourt County Public Schools",
+    "instructor_first_name":"Shanon",
+    "instructor_last_name":"Griffin",
+    "email":"sgriffin@bcps.k12.va.us",
+    "courses_taught":"Nurse Aide\/Nursing Assistant"
+  },
+  {
+    "campus":"Bridging Communities Tech Ctr",
+    "instructor_first_name":"Berkeley",
+    "instructor_last_name":"Brandt",
+    "email":"bbrandt@bctc.org",
+    "courses_taught":"EMS"
+  },
+  {
+    "campus":"Bridging Communities Tech Ctr",
+    "instructor_first_name":"Julie",
+    "instructor_last_name":"Ellis",
+    "email":"jellis@bridgingcommunities.k12.va.us",
+    "courses_taught":"Executive Director"
+  },
+  {
+    "campus":"Bridging Communities Tech Ctr",
+    "instructor_first_name":"Lasandra",
+    "instructor_last_name":"Berry",
+    "email":"lberry@bctc.org",
+    "courses_taught":"Pharmacy Tech"
+  },
+  {
+    "campus":"Bridging Communities Tech Ctr",
+    "instructor_first_name":"Trudy",
+    "instructor_last_name":"Van Dyke",
+    "email":"tvandyke@bctc.org",
+    "courses_taught":"Practical Nursing"
+  },
+  {
+    "campus":"Chantilly Academy",
+    "instructor_first_name":"Cindy",
+    "instructor_last_name":"Holland",
+    "email":"crholland@fcps.edu",
+    "courses_taught":"Introduction to Nursing (CNA)"
+  },
+  {
+    "campus":"Chantilly Academy",
+    "instructor_first_name":"Jennifer",
+    "instructor_last_name":"Callanhan",
+    "email":"jccallahan@fcps.edu",
+    "courses_taught":"Language of Medicine & Exploring Health Sciences"
+  },
+  {
+    "campus":"Chantilly Academy",
+    "instructor_first_name":"Rick",
+    "instructor_last_name":"Cutting",
+    "email":"racutting@fcps.edu",
+    "courses_taught":"Pharmacy Tech"
+  },
+  {
+    "campus":"Fairfax County Public Schools",
+    "instructor_first_name":"Colin",
+    "instructor_last_name":"Flanigan",
+    "email":"cdflanigan@fcps.edu",
+    "courses_taught":"EMT"
+  },
+  {
+    "campus":"Fairfax County Public Schools",
+    "instructor_first_name":"Cindy",
+    "instructor_last_name":"Holland",
+    "email":"crholland@fcps.edu",
+    "courses_taught":"Introduction to Nursing (CNA)"
+  },
+  {
+    "campus":"Falls Church Academy",
+    "instructor_first_name":"Colin",
+    "instructor_last_name":"Flanigan",
+    "email":"cdflanigan@fcps.edu",
+    "courses_taught":"EMT"
+  },
+  {
+    "campus":"Falls Church Academy",
+    "instructor_first_name":"Patricia \"Tisha\"",
+    "instructor_last_name":"McDonald",
+    "email":"pmcdonald@fcps.edu",
+    "courses_taught":"Language of Medicine & Exploring Health Sciences"
+  },
+  {
+    "campus":"Falls Church Academy",
+    "instructor_first_name":"Elsy",
+    "instructor_last_name":"Argueta",
+    "email":"ecargueta@fcps.edu",
+    "courses_taught":"Language of Medicine & Exploring Health Sciences"
+  },
+  {
+    "campus":"Falls Church Academy",
+    "instructor_first_name":"Rick",
+    "instructor_last_name":"Schubert",
+    "email":"rrschubert@fcps.edu",
+    "courses_taught":"Pharmacy Tech"
+  },
+  {
+    "campus":"Falls Church Academy at the Plum Center",
+    "instructor_first_name":"Yasmin",
+    "instructor_last_name":"Khan-Todd",
+    "email":"yekhantodd@fcps.edu",
+    "courses_taught":"Introduction to Nursing (CNA)"
+  },
+  {
+    "campus":"Falls Church Academy at the Plum Center",
+    "instructor_first_name":"Doris",
+    "instructor_last_name":"Bennett-Brown",
+    "email":"debennettbro@fcps.edu",
+    "courses_taught":"Introduction to Nursing (CNA)"
+  },
+  {
+    "campus":"Falls Church Academy at the Plum Center",
+    "instructor_first_name":"Jan",
+    "instructor_last_name":"Rayl",
+    "email":"jlrayl@fcps.edu",
+    "courses_taught":"Patient Care Technician"
+  },
+  {
+    "campus":"Henrico County Public Schools",
+    "instructor_first_name":"Sarah",
+    "instructor_last_name":"Hammonds",
+    "email":"sfhammonds@henrico.k12.va.us",
+    "courses_taught":"Director\/Allied Health Center"
+  },
+  {
+    "campus":"Henrico County Public Schools",
+    "instructor_first_name":"Johanna",
+    "instructor_last_name":"Chandler",
+    "email":"jfchandler@henrico.k12.va.us",
+    "courses_taught":"EMT"
+  },
+  {
+    "campus":"Henrico County Public Schools",
+    "instructor_first_name":"Alice",
+    "instructor_last_name":"Leonard",
+    "email":"aleonard@henrico.k12.va.us",
+    "courses_taught":"Nurse Aide"
+  },
+  {
+    "campus":"Henrico County Public Schools",
+    "instructor_first_name":"Cynthia",
+    "instructor_last_name":"Pommert",
+    "email":"cmpommert@henrico.k12.va.us",
+    "courses_taught":"Nurse Aide"
+  },
+  {
+    "campus":"Henrico County Public Schools",
+    "instructor_first_name":"Cynthia",
+    "instructor_last_name":"Pommert",
+    "email":"cmpommert@henrico.k12.va.us",
+    "courses_taught":"Nurse Aide\/Nursing Assistant"
+  },
+  {
+    "campus":"Henrico County Public Schools",
+    "instructor_first_name":"Alice",
+    "instructor_last_name":"Leonard",
+    "email":"aleonard@henrico.k12.va.us",
+    "courses_taught":"Nurse Aide\/Nursing Assistant"
+  },
+  {
+    "campus":"Henrico County Public Schools",
+    "instructor_first_name":"Crystal",
+    "instructor_last_name":"Sarvay",
+    "email":"jcsarvay@henrico.k12.va.us",
+    "courses_taught":"Other"
+  },
+  {
+    "campus":"Henrico County Public Schools",
+    "instructor_first_name":"Sarah",
+    "instructor_last_name":"Hammonds",
+    "email":"sfhammonds@henrico.k12.va.us",
+    "courses_taught":"Other"
+  },
+  {
+    "campus":"Henrico County Public Schools",
+    "instructor_first_name":"Bobbi",
+    "instructor_last_name":"Southard",
+    "email":"bjsouthard@henrico.k12.va.us",
+    "courses_taught":"Other"
+  },
+  {
+    "campus":"Henrico County Public Schools",
+    "instructor_first_name":"Johanna",
+    "instructor_last_name":"Chandler",
+    "email":"jfchandler@henrico.k12.va.us",
+    "courses_taught":"Other"
+  },
+  {
+    "campus":"Henrico County Public Schools",
+    "instructor_first_name":"Jamaal",
+    "instructor_last_name":"Willis",
+    "email":"jmwillis@henrico.k12.va.us",
+    "courses_taught":"Pharmacy Tech"
+  },
+  {
+    "campus":"Henrico County Public Schools",
+    "instructor_first_name":"Lisa",
+    "instructor_last_name":"Babilon",
+    "email":"lmbabilon@henrico.k12.va.us",
+    "courses_taught":"Practical Nursing"
+  },
+  {
+    "campus":"Henrico County Public Schools",
+    "instructor_first_name":"Crystal",
+    "instructor_last_name":"Sarvay",
+    "email":"jcsarvay@henrico.k12.va.us",
+    "courses_taught":"Specialist\/Health and Medical"
+  },
+  {
+    "campus":"Henrico County Public Schools",
+    "instructor_first_name":"Bobbi",
+    "instructor_last_name":"Southard",
+    "email":"bjsouthard@henrico.k12.va.us",
+    "courses_taught":"Sports Medicine"
+  },
+  {
+    "campus":"King George",
+    "instructor_first_name":"Lisa",
+    "instructor_last_name":"Tate",
+    "email":"ltate@kgcs.k12.va.us",
+    "courses_taught":"Nurse Aide"
+  },
+  {
+    "campus":"King George",
+    "instructor_first_name":"Amanda",
+    "instructor_last_name":"Stepp",
+    "email":"astepp@kgcs.k12.va.us",
+    "courses_taught":"Nurse Aide"
+  },
+  {
+    "campus":"King George",
+    "instructor_first_name":"Suzanne",
+    "instructor_last_name":"Nester",
+    "email":"suzanne.nester@gc.k12.va.us",
+    "courses_taught":"Nurse Aide"
+  },
+  {
+    "campus":"Loudoun County Public Schools",
+    "instructor_first_name":"Jane",
+    "instructor_last_name":"O'Connor",
+    "email":"joconnor@lcps.org",
+    "courses_taught":"Health Informatics,Medical Assistant,Medical Assistant,Pharmacological Technician,Medical Laboratory Technician"
+  },
+  {
+    "campus":"Loudoun County Public Schools",
+    "instructor_first_name":"Lhe",
+    "instructor_last_name":"Smith",
+    "email":"lhe.smith@lcps.org",
+    "courses_taught":"Nurse Aide\/Nursing Assistant,Health Informatics,Medical Assistant,Surgical Technician,Radiology Technician,Pharmacological Technician,Medical Laboratory Technician,Patient Care Technician,Practical Nurse,Health Informatics,Medical Assistant,Surgical Technician,Radiology Technician,Pharmacological Technician,Medical Laboratory Technician,Patient Care Technician,Career Coach"
+  },
+  {
+    "campus":"Loudoun County Public Schools",
+    "instructor_first_name":"Lhe",
+    "instructor_last_name":"Smith",
+    "email":"lhe.smith@lcps.org",
+    "courses_taught":"Nurse Aide\/Nursing Assistant,Practical Nurse,Health Informatics,Medical Assistant,Surgical Technician,Radiology Technician,Pharmacological Technician,Medical Laboratory Technician,Patient Care Technician,Practical Nurse,Health Informatics,Medical Assistant,Surgical Technician,Radiology Technician,Pharmacological Technician,Medical Laboratory Technician,Patient Care Technician,Career Coach"
+  },
+  {
+    "campus":"Loudoun County Public Schools",
+    "instructor_first_name":"Vandana",
+    "instructor_last_name":"Sharma",
+    "email":"vandana.sharma@lcps.org",
+    "courses_taught":"Nurse Aide\/Nursing Assistant,Practical Nurse,Health Informatics,Medical Assistant,Surgical Technician,Radiology Technician,Pharmacological Technician,Medical Laboratory Technician,Patient Care Technician,Practical Nurse,Health Informatics,Medical Assistant,Surgical Technician,Radiology Technician,Pharmacological Technician,Medical Laboratory Technician,Patient Care Technician,Career Coach"
+  },
+  {
+    "campus":"Northern Neck Tech Ctr",
+    "instructor_first_name":"Kim",
+    "instructor_last_name":"Moore",
+    "email":"kmoore@northernnecktech.org",
+    "courses_taught":"Nurse Aide"
+  },
+  {
+    "campus":"Northern Neck Tech Ctr",
+    "instructor_first_name":"Samantha",
+    "instructor_last_name":"Dixon",
+    "email":"sdixon@northernnecktech.org",
+    "courses_taught":"Principal"
+  },
+  {
+    "campus":"Online Campus",
+    "instructor_first_name":"Iris",
+    "instructor_last_name":"Lara",
+    "email":"idlara@fcps.edu",
+    "courses_taught":"Language of Medicine & Exploring Health Sciences"
+  },
+  {
+    "campus":"Online Campus",
+    "instructor_first_name":"Millie",
+    "instructor_last_name":"Carlson",
+    "email":"mkcarlson@fcps.edu",
+    "courses_taught":"Language of Medicine & Exploring Health Sciences"
+  },
+  {
+    "campus":"Online Campus",
+    "instructor_first_name":"Cindy",
+    "instructor_last_name":"Dowd",
+    "email":"ckdowd@fcps.edu",
+    "courses_taught":"Language of Medicine & Exploring Health Sciences"
+  },
+  {
+    "campus":"Roanoke City Public Schools",
+    "instructor_first_name":"Jesse",
+    "instructor_last_name":"Truax",
+    "email":"JTruax@rcps.info",
+    "courses_taught":"Career Coach"
+  },
+  {
+    "campus":"Roanoke City Public Schools",
+    "instructor_first_name":"Nora",
+    "instructor_last_name":"Parsons Atkins",
+    "email":"nparsonsatkins@rcps.info",
+    "courses_taught":"Nurse Aide\/Nursing Assistant"
+  },
+  {
+    "campus":"Roanoke City Public Schools",
+    "instructor_first_name":"Tammy",
+    "instructor_last_name":"Feese",
+    "email":"TFeese@rcps.info",
+    "courses_taught":"Nurse Aide\/Nursing Assistant"
+  },
+  {
+    "campus":"Roanoke City Public Schools",
+    "instructor_first_name":"Kathleen",
+    "instructor_last_name":"Duncan",
+    "email":"kduncan@rcps.info",
+    "courses_taught":"Other"
+  },
+  {
+    "campus":"Roanoke City Public Schools",
+    "instructor_first_name":"Jeanne",
+    "instructor_last_name":"Brown",
+    "email":"JEBrown@rcps.info",
+    "courses_taught":"Other"
+  },
+  {
+    "campus":"Roanoke City Public Schools",
+    "instructor_first_name":"Madison",
+    "instructor_last_name":"Smith",
+    "email":"Madisonsmith@rcps.info",
+    "courses_taught":"Other"
+  },
+  {
+    "campus":"Roanoke County Public Schools",
+    "instructor_first_name":"Laura",
+    "instructor_last_name":"Schoonover",
+    "email":"lschoonover@rcps.us",
+    "courses_taught":"Nurse Aide\/Nursing Assistant"
+  },
+  {
+    "campus":"Shenandoah County",
+    "instructor_first_name":"Melissa",
+    "instructor_last_name":"Marston",
+    "email":"mdmarston@shenandoah.k12.va.us",
+    "courses_taught":"Biomedical Academy"
+  },
+  {
+    "campus":"Shenandoah County",
+    "instructor_first_name":"Megan",
+    "instructor_last_name":"Baker",
+    "email":"mebaker@shenandoah.k12.va.us",
+    "courses_taught":"CAN"
+  },
+  {
+    "campus":"Shenandoah County",
+    "instructor_first_name":"Summer",
+    "instructor_last_name":"Ruhling",
+    "email":"sgruhling@shenandoah.k12.va.us",
+    "courses_taught":"EMT"
+  },
+  {
+    "campus":"Shenandoah County",
+    "instructor_first_name":"Amanda \"Mandi\"",
+    "instructor_last_name":"Robinson",
+    "email":"ahrobinson@shenandoah.k12.va.us",
+    "courses_taught":"Intro. to Health and Medical\n \n Medical Terminology"
+  },
+  {
+    "campus":"Shenandoah County",
+    "instructor_first_name":"Jane",
+    "instructor_last_name":"Elwood",
+    "email":"jeelwood@shenandoah.k12.va.us",
+    "courses_taught":"Physical\/Occupational Therapy\n \n Intro. to Health and Medical\n \n Medical Terminology"
+  },
+  {
+    "campus":"West Potomac Academy",
+    "instructor_first_name":"Leo",
+    "instructor_last_name":"Teller",
+    "email":"lteller@fcps.edu",
+    "courses_taught":"EMT"
+  },
+  {
+    "campus":"West Potomac Academy",
+    "instructor_first_name":"Corin",
+    "instructor_last_name":"Uviedo",
+    "email":"cuviedo@fcps.edu",
+    "courses_taught":"Introduction to Nursing (CNA)"
+  },
+  {
+    "campus":"West Potomac Academy",
+    "instructor_first_name":"Alisa",
+    "instructor_last_name":"Zamudio",
+    "email":"AJZamudio@fcps.edu",
+    "courses_taught":"Language of Medicine & Exploring Health Sciences"
+  },
+  {
+    "campus":"West Potomac Academy",
+    "instructor_first_name":"Aiman",
+    "instructor_last_name":"Shaikh",
+    "email":"ashaikh@fcps.edu",
+    "courses_taught":"Pharmacy Tech"
+  }
+]
